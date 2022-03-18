@@ -1,0 +1,193 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Hat" referent="GT{9CBFFF6-6C3-D21-FBA-92BC481D028}">
+			<Properties>
+				<CoordinateFrame name="AttachmentPoint">
+					<X>0</X>
+					<Y>2.20000005</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Flintstones Car</string>
+			</Properties>
+			<Item class="Part" referent="GT{F82DF1A-E9B-D9C-A6E-E5E4539195A}">
+				<Properties>
+					<bool name="Anchored">false</bool>
+					<float name="BackParamA">-0.5</float>
+					<float name="BackParamB">0.5</float>
+					<token name="BackSurface">0</token>
+					<token name="BackSurfaceInput">0</token>
+					<float name="BottomParamA">-0.5</float>
+					<float name="BottomParamB">0.5</float>
+					<token name="BottomSurface">0</token>
+					<token name="BottomSurfaceInput">0</token>
+					<int name="BrickColor">194</int>
+					<CoordinateFrame name="CFrame">
+						<X>0.266651005</X>
+						<Y>17.2600098</Y>
+						<Z>22.2986526</Z>
+						<R00>-1</R00>
+						<R01>-1.11128509e-31</R01>
+						<R02>-3.02998127e-15</R02>
+						<R10>1.36688063e-30</R10>
+						<R11>1</R11>
+						<R12>-3.70576914e-22</R12>
+						<R20>3.02998127e-15</R20>
+						<R21>-3.70576914e-22</R21>
+						<R22>-1</R22>
+					</CoordinateFrame>
+					<bool name="CanCollide">false</bool>
+					<Color3 name="Color">
+						<R>0.639215708</R>
+						<G>0.635294139</G>
+						<B>0.647058845</B>
+					</Color3>
+					<int name="BrickColor">194</int>
+					<PhysicalProperties name="CustomPhysicalProperties">
+						<CustomPhysics>false</CustomPhysics>
+					</PhysicalProperties>
+					<float name="Elasticity">0.5</float>
+					<float name="Friction">0.300000012</float>
+					<float name="FrontParamA">-0.5</float>
+					<float name="FrontParamB">0.5</float>
+					<token name="FrontSurface">0</token>
+					<token name="FrontSurfaceInput">0</token>
+					<float name="LeftParamA">-0.5</float>
+					<float name="LeftParamB">0.5</float>
+					<token name="LeftSurface">0</token>
+					<token name="LeftSurfaceInput">0</token>
+					<bool name="Locked">false</bool>
+					<token name="Material">256</token>
+					<string name="Name">Handle</string>
+					<float name="Reflectance">0</float>
+					<float name="RightParamA">-0.5</float>
+					<float name="RightParamB">0.5</float>
+					<token name="RightSurface">0</token>
+					<token name="RightSurfaceInput">0</token>
+					<Vector3 name="RotVelocity">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+					<float name="TopParamA">-0.5</float>
+					<float name="TopParamB">0.5</float>
+					<token name="TopSurface">0</token>
+					<token name="TopSurfaceInput">0</token>
+					<float name="Transparency">0</float>
+					<Vector3 name="Velocity">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+					<token name="formFactorRaw">0</token>
+					<token name="shape">1</token>
+					<Vector3 name="size">
+						<X>0.500000358</X>
+						<Y>0.520000041</Y>
+						<Z>1.38999999</Z>
+					</Vector3>
+				</Properties>
+				<Item class="SpecialMesh" referent="GT{A2CD36D-DCE-EFF-99C-42290F08ED9}">
+					<Properties>
+						<token name="LODX">2</token>
+						<token name="LODY">2</token>
+						<Content name="MeshId"><url>http://www.roblox.com/asset/?id=435712734 </url></Content>
+						<token name="MeshType">5</token>
+						<string name="Name">Mesh</string>
+						<Vector3 name="Offset">
+							<X>0</X>
+							<Y>0</Y>
+							<Z>0</Z>
+						</Vector3>
+						<Vector3 name="Scale">
+							<X>5.5</X>
+							<Y>5.5</Y>
+							<Z>5.5</Z>
+						</Vector3>
+						<Content name="TextureId"><url>http://www.roblox.com/asset/?id=435712913</url></Content>
+						<Vector3 name="VertexColor">
+							<X>1</X>
+							<Y>1</Y>
+							<Z>1</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+				<Item class="Attachment" referent="GT{8719A7B-61E-0C1-376-8600A092A6E}">
+					<Properties>
+						<CoordinateFrame name="CFrame">
+							<X>8.65838956e-09</X>
+							<Y>2.29999995</Y>
+							<Z>-0.000272244215</Z>
+							<R00>1</R00>
+							<R01>7.87137555e-09</R01>
+							<R02>-3.26223034e-24</R02>
+							<R10>-7.87137555e-09</R10>
+							<R11>1</R11>
+							<R12>-4.1444221e-16</R12>
+							<R20>0</R20>
+							<R21>4.1444221e-16</R21>
+							<R22>1</R22>
+						</CoordinateFrame>
+						<string name="Name">HatAttachment</string>
+					</Properties>
+				</Item>
+				<Item class="Vector3Value" referent="GT{F6C6D03-7DD-ECD-0EB-EDD7DFBF8B2}">
+					<Properties>
+						<string name="Name">OriginalSize</string>
+						<Vector3 name="Value">
+							<X>0.500000358</X>
+							<Y>0.520000041</Y>
+							<Z>1.38999999</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Camera" referent="GT{ECB42C2-E33-6C0-D6F-75ACCC684D1}">
+				<Properties>
+					<CoordinateFrame name="CFrame">
+						<X>33.3460007</X>
+						<Y>4.59715652</Y>
+						<Z>-5.56764841</Z>
+						<R00>0.883577466</R00>
+						<R01>-0.149377838</R01>
+						<R02>0.443821073</R02>
+						<R10>-0</R10>
+						<R11>0.947758496</R11>
+						<R12>0.318989128</R12>
+						<R20>-0.468285024</R20>
+						<R21>-0.281851619</R21>
+						<R22>0.83741802</R22>
+					</CoordinateFrame>
+					<Ref name="CameraSubject">null</Ref>
+					<token name="CameraType">0</token>
+					<float name="FieldOfView">70</float>
+					<CoordinateFrame name="Focus">
+						<X>32.4583588</X>
+						<Y>3.95917845</Y>
+						<Z>-7.24248409</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<bool name="HeadLocked">true</bool>
+					<string name="Name">ThumbnailCamera</string>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>
