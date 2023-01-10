@@ -1,4 +1,2 @@
 # revival-sources
-some of my old revival sources
-
-contains vulns and bad code be careful!
+this is fucking disgusting and im ashamed
