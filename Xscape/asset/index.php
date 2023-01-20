@@ -5,7 +5,7 @@ if(!empty($_GET['id']))
     $id = $_GET['id'];
 
     if (file_exists("assets/" . $id)) {
-        $file = "http://www.xsscape.cf/asset/assets/" . $id;
+        $file = "assets/" . $id;
 
         header("Content-Description: File Transfer");
         header("Content-Type: application/octet-stream");
